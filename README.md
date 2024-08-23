@@ -1,3 +1,7 @@
+### !! Important !!
+
+You will need to have [Docker Desktop](https://www.docker.com/products/docker-desktop/) installed for this to work.
+
 ## How to Run
 
 Clone the Repo and then perform an `npm i`
